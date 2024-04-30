@@ -11,8 +11,9 @@ You can install the required packages using pip:
 
 ```bash
 pip install scikit-learn
+```
 
-## Requirements
+### Usage
 
 The `main.py` script trains a Support Vector Machine (SVM) model on the Wine dataset and evaluates its performance. Here's a step-by-step breakdown of what the script does:
 

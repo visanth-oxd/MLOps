@@ -2,7 +2,7 @@
 
 This project contains a Python script that trains a Logistic Regression model on the Iris dataset. The model is then evaluated and saved for future use.
 
-## Requirements
+ç Requirements
 
 - Python 3.6 or later
 - scikit-learn
@@ -12,9 +12,9 @@ You can install the required packages using pip:
 
 ```bash
 pip install scikit-learn joblib
+```
 
-
-## Usage
+### Usage
 
 The `main.py` script trains a Support Vector Machine (SVM) model on the Wine dataset and evaluates its performance. Here's a step-by-step breakdown of what the script does:
 
